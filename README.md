@@ -42,7 +42,7 @@ Modern, production-ready frontend for ad campaign management and analytics, buil
    
    Edit `.env.local`:
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:5000/api
+   NEXT_PUBLIC_API_URL=https://ads-platform-backend-9eej.onrender.com/api
    ```
 
 4. **Start the development server**
@@ -129,7 +129,7 @@ The project includes optimized settings for Vercel:
 
 | Variable | Description | Example | Required |
 |----------|-------------|---------|----------|
-| `NEXT_PUBLIC_API_URL` | Backend API URL | `http://localhost:5000/api` | Yes |
+| `NEXT_PUBLIC_API_URL` | Backend API URL | `https://ads-platform-backend-9eej.onrender.com/api` | Yes |
 
 **Important**: All environment variables used in client-side code must be prefixed with `NEXT_PUBLIC_`.
 
