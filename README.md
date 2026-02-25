@@ -274,6 +274,10 @@ This project showcases:
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 **Purpose**: Portfolio/Skills Demonstration  
 **Stack**: Next.js • React • TypeScript • Tailwind CSS  
 **Deployment**: Vercel (Frontend) • Render (Backend)
