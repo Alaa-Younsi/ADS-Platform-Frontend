@@ -8,6 +8,9 @@
 
 This is a **portfolio/demonstration project** built to showcase full-stack development capabilities, featuring a complete ad campaign management system with authentication, CRUD operations, analytics dashboards, and modern UI/UX practices. The project demonstrates proficiency in building production-ready applications with industry-standard tools and best practices.
 
+![Homepage](./screenshots/screenshot1.png)
+![Services Section](./screenshots/screenshot2.png)
+
 ## ✨ Key Features
 
 - 🔐 **Secure Authentication** - JWT-based authentication with automatic token refresh
